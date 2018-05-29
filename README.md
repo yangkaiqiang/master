@@ -1,2 +1,2 @@
-# master
-personal inspiration from work
+# curl
+Create a PHP CURL class
