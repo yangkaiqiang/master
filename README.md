@@ -1,2 +1,2 @@
 ## curl
-Create a PHP CURL class
+Create a PHP CURL class...
